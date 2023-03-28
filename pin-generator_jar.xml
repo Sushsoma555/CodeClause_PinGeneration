@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pin-generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pin-generator-sources_jar</output-path>
+    <root id="archive" name="pin-generator.jar">
+      <element id="module-source" name="pin-generator" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="113d8946-6099-4c63-96fb-7f3f0756fc81" name="Changes" comment="ide modified file." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28j4ahtJC3iXoGGK7maac8tl4Zi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/91727/Downloads/pin-generator-master/pin-generator-master/pom.xml",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.pitzzahh" />
+      <recent name="com.pitzzahh" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="pin-generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113d8946-6099-4c63-96fb-7f3f0756fc81" name="Changes" comment="" />
+      <created>1651716727331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651716727331</updated>
+    </task>
+    <task id="LOCAL-00001" summary="quick upload">
+      <created>1651751630652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651751630652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactored PinGenerator class.">
+      <created>1657527043647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657527043647</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added distribution management.">
+      <created>1657527066792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657527066792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created each files.">
+      <created>1657529159951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529159951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added info for maven dependency.">
+      <created>1657529243899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529243899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed Test.">
+      <created>1657529255907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529255908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed inner record and exceptions, moved to their own files.">
+      <created>1657529302315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529302315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ide files.">
+      <created>1657529358653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529358653</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1657530638186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657530638186</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ide files">
+      <created>1657532971209</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657532971209</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactored else if condition">
+      <created>1657533785341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657533785341</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ide file">
+      <created>1657533807340</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657533807340</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added some error checking">
+      <created>1657538006164</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657538006164</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ide files">
+      <created>1657538038807</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657538038807</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed bug">
+      <created>1657553310404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657553310404</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed README">
+      <created>1657553348660</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657553348660</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ide files">
+      <created>1657553423147</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657553423147</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update dependency info.">
+      <created>1657863050278</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657863050278</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added tags needed for releasing to central repo.">
+      <created>1657863600968</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1657863600968</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ide modified file.">
+      <created>1657863636306</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657863636306</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quick upload" />
+    <MESSAGE value="refactored PinGenerator class." />
+    <MESSAGE value="added distribution management." />
+    <MESSAGE value="created each files." />
+    <MESSAGE value="added info for maven dependency." />
+    <MESSAGE value="removed Test." />
+    <MESSAGE value="removed inner record and exceptions, moved to their own files." />
+    <MESSAGE value="ide files." />
+    <MESSAGE value="commit" />
+    <MESSAGE value="refactored else if condition" />
+    <MESSAGE value="ide file" />
+    <MESSAGE value="added some error checking" />
+    <MESSAGE value="fixed bug" />
+    <MESSAGE value="fixed README" />
+    <MESSAGE value="ide files" />
+    <MESSAGE value="update dependency info." />
+    <MESSAGE value="added tags needed for releasing to central repo." />
+    <MESSAGE value="ide modified file." />
+    <option name="LAST_COMMIT_MESSAGE" value="ide modified file." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
